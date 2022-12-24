@@ -1,0 +1,17 @@
+Impf,Wk2021
+scenario,historical
+metric,AAI_agg
+CanESM5,inf
+CNRM-CM6-1,inf
+CNRM-ESM2-1,inf
+EC-Earth3-Veg,inf
+EC-Earth3-Veg-LR,inf
+IPSL-CM6A-LR,inf
+MIROC-ES2L,inf
+UKESM1-0-LL,inf
+MRI-ESM2-0,inf
+FGOALS-g3,inf
+ACCESS-ESM1-5,inf
+MIROC6,inf
+MPI-ESM1-2-LR,inf
+KACE-1-0-G,inf
